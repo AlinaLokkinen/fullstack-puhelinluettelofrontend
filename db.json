@@ -1,0 +1,45 @@
+{
+  "people": [
+    {
+      "id": "2",
+      "name": "Mikko Laine",
+      "phone": "045-9876543"
+    },
+    {
+      "id": "3",
+      "name": "Sara Nieminen",
+      "phone": "050-2468135"
+    },
+    {
+      "id": "4",
+      "name": "Joonas Korhonen",
+      "phone": "041-5557788"
+    },
+    {
+      "id": "5",
+      "name": "Emilia Salmi",
+      "phone": "044-1122334"
+    },
+    {
+      "id": "6",
+      "name": "Leo Mäkinen",
+      "phone": "046-6677889"
+    },
+    {
+      "id": "7",
+      "name": "Veera Koski",
+      "phone": "050-9988776"
+    },
+    {
+      "id": "8",
+      "name": "Oskari Heikkilä",
+      "phone": "040-3344556"
+    },
+    {
+      "id": "10",
+      "name": "Elias Rantanen",
+      "phone": "041-7788990"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
